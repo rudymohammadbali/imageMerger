@@ -1,12 +1,6 @@
 # Image Merger
-Image Merger is a Python application that allows you to merge multiple images into one. It’s perfect for creating collages, photo grids, or combining images in creative ways.
+Image Merger allows you to merge multiple images into one. It’s perfect for creating collages, photo grids, or combining images in creative ways.
 
-## Features
-- Merge Multiple Images: Combine any number of images into a single output image.
-- Flexible Grid Layout: The application automatically arranges the images into a grid layout that’s as square as possible.
-- Image Resizing: All images are resized to match the size of the first image, ensuring a uniform grid.
-- Transparent Background: The merged image is created with a transparent background, allowing it to be used on various surfaces.
-- Error Handling: The application includes robust error handling, including checks for invalid image paths and issues when saving the output image.
 
 ## Usage
 You can use Image Merger from the command line by providing the paths to the images as arguments:
